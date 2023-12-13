@@ -1,0 +1,111 @@
+spring:
+  application:
+    name: GD_ZXJ  # 应用名称，用于nacos的服务发现和配置管理，请根据实际情况填写
+  #  profiles:
+#    active: dev
+#  cloud:
+#    nacos:
+#      config:
+#        username: nacos # Nacos 登录用户名
+#        password: nacos # Nacos 登录密码
+#        contextPath: /nacos # Nacos 上下文路径
+#        server-addr: 10.97.10.12:8848 # Nacos 服务器地址
+#        group: DEFAULT_GROUP
+#          #指定文件名，没有则默认${spring.application.name}
+#          #指定读取配置中心文件后缀
+#        file-extension: yml
+#      discovery:
+#        server-addr: 10.97.10.12:8848
+#  config:
+#    import:
+#      - optional:nacos:${spring.application.name}.${spring.cloud.nacos.config.file-extension}
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+  rabbitmq:
+    host: 10.97.110.251
+    port: 5672
+    username: test
+    password: test
+    virtual-host: /gd
+    publisher-returns: true
+    listener:
+#       Routing 路由模型（交换机类型：direct）
+      direct:
+#        消息确认：手动签收
+        acknowledge-mode: manual
+#        当前监听容器数
+        concurrency: 1
+#        最大数
+        max-concurrency: 10
+#        是否支持重试
+        retry:
+          enabled: true
+#          重试次数5,超过5次抛出异常
+          max-attempts: 5
+#          重试间隔 3s
+          max-interval: 3000
+  redis:
+    database: 0
+    host: 10.97.20.6
+#    host: 10.97.10.12
+    port: 6379
+    password: 123456
+    lettuce:
+      pool:
+        max-active: 8
+        max-wait: -1ms
+        max-idle: 8
+        min-idle: 0
+    redisson:
+      file: classpath:redisson.yml
+
+server:
+  port: 8080 # 应用服务的 Web 访问端口
+
+jqdb:
+  datasource:
+    url: jdbc:mysql://10.97.10.12:3306/gd?useUnicode=true&characterEncoding=UTF-8&allowMultiQueries=true
+    username: root
+    password: root
+    driverClassName: com.mysql.cj.jdbc.Driver
+    datacore:
+jqtargetdb:
+  datasource:
+    url: jdbc:mysql://10.97.10.12:3306/gd_target?useUnicode=true&characterEncoding=UTF-8&allowMultiQueries=true
+    username: root
+    password: root
+    driverClassName: com.mysql.cj.jdbc.Driver
+    datacore:
+
+
+#日志配置
+logging:
+  level:
+    com.visionvera : INFO
+  config: classpath:logback.xml
+#logging:
+#  config: classpath:logback-development.xml
+
+#连接池的配置信息
+datasource:
+  druid:
+    #配置初始化大小、最小、最大
+    initial-size: 1
+    min-idle: 1
+    max-active: 20
+    #配置获取连接等待超时的时间
+    max-wait: 200000
+    #配置间隔多久才进行一次检测，检测需要关闭的空闲连接，单位是毫秒
+    time-between-eviction-runs-millis: 200000
+    #配置一个连接在池中最小生存的时间，单位是毫秒
+    min-evictable-idle-time-millis: 300000
+    validation-query: SELECT 'x'
+    test-while-idle: true
+    test-on-borrow: false
+    test-on-return: false
+    #打开PSCache，并且指定每个连接上PSCache的大小
+    pool-prepared-statements: false
+    max-pool-prepared-statement-per-connection-size: 20
+    #配置监控统计拦截的filters
+    filters: stat
