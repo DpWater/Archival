@@ -49,13 +49,12 @@ public class ArchvialServiceImpl implements ArchivalService {
 //            根据表名获取总量
             int num = gdMapper.getTotalNum(archivalTask.getTableName());
 //            todo 根据表名获取合理批次数 没实现前定位一千
-            int batchNume = 5000;
+            int batchNume = 200000;
 //            根据批次发放
             int i = 0;
             String index = StringUtil.isNullOrEmpty(archivalTask.getIndex()) ? "id" : archivalTask.getIndex();
             redisTemplate.opsForValue().set(archivalTask.getTableName(), true, 30, TimeUnit.MINUTES);
             while (i < num) {
-//              todo   发送过程中要获取rabbitmq的条目数，如果超过则睡眠一阵子
                 ArchivalDoJobMqDto bak = new ArchivalDoJobMqDto();
                 bak.setStartIndex(i);
                 bak.setEndIndex(i + batchNume);

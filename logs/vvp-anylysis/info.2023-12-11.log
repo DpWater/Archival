@@ -1,0 +1,528 @@
+11:09:36.375 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+11:09:37.223 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+11:09:37.223 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+11:09:39.860 [main] INFO  c.j.a.ArchivalApplication - [logStartupProfileInfo,645] - No active profile set, falling back to 1 default profile: "default"
+11:09:42.968 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+11:09:42.968 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+11:09:42.969 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.68]
+11:09:43.157 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+11:09:43.881 [main] INFO  c.a.d.p.DruidDataSource - [close,1948] - {dataSource-0} closing ...
+11:09:43.885 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+11:11:23.096 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+11:11:23.716 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+11:11:23.717 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+11:11:25.910 [main] INFO  c.j.a.ArchivalApplication - [logStartupProfileInfo,645] - No active profile set, falling back to 1 default profile: "default"
+11:11:28.372 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+11:11:28.373 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+11:11:28.374 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.68]
+11:11:28.538 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+11:11:29.042 [main] INFO  c.a.d.p.DruidDataSource - [close,1948] - {dataSource-0} closing ...
+11:11:29.046 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+11:15:25.687 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+11:15:26.577 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+11:15:26.578 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+11:15:29.318 [main] INFO  c.j.a.ArchivalApplication - [logStartupProfileInfo,645] - No active profile set, falling back to 1 default profile: "default"
+11:15:32.404 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+11:15:32.405 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+11:15:32.405 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.68]
+11:15:32.581 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+11:15:33.260 [main] INFO  c.a.d.p.DruidDataSource - [close,1948] - {dataSource-0} closing ...
+11:15:33.263 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+11:31:37.926 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+11:31:38.831 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+11:31:38.832 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+11:31:41.696 [main] INFO  c.j.a.ArchivalApplication - [logStartupProfileInfo,645] - No active profile set, falling back to 1 default profile: "default"
+11:31:44.898 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+11:31:44.899 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+11:31:44.900 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.68]
+11:31:45.084 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+11:31:45.837 [main] INFO  c.a.d.p.DruidDataSource - [close,1948] - {dataSource-0} closing ...
+11:31:45.841 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+11:36:43.880 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+11:36:44.667 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+11:36:44.667 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+11:36:47.354 [main] INFO  c.j.a.ArchivalApplication - [logStartupProfileInfo,645] - No active profile set, falling back to 1 default profile: "default"
+11:36:50.399 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+11:36:50.400 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+11:36:50.400 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.68]
+11:36:50.587 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+11:36:51.303 [main] INFO  c.a.d.p.DruidDataSource - [close,1948] - {dataSource-0} closing ...
+11:36:51.306 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+11:37:23.007 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+11:37:23.801 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+11:37:23.802 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+11:37:26.371 [main] INFO  c.j.a.ArchivalApplication - [logStartupProfileInfo,645] - No active profile set, falling back to 1 default profile: "default"
+11:37:29.201 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+11:37:29.201 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+11:37:29.202 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.68]
+11:37:29.375 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+11:37:30.023 [main] INFO  c.a.d.p.DruidDataSource - [close,1948] - {dataSource-0} closing ...
+11:37:30.027 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+11:39:11.255 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+11:39:17.444 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+11:39:17.445 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+11:39:30.372 [main] INFO  c.j.a.ArchivalApplication - [logStartupProfileInfo,645] - No active profile set, falling back to 1 default profile: "default"
+11:39:33.856 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+11:39:33.857 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+11:39:33.858 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.68]
+11:39:34.055 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+11:39:34.817 [main] INFO  c.a.d.p.DruidDataSource - [close,1948] - {dataSource-0} closing ...
+11:39:34.823 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+11:41:50.896 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+11:41:51.635 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+11:41:51.636 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+11:41:54.217 [main] INFO  c.j.a.ArchivalApplication - [logStartupProfileInfo,645] - No active profile set, falling back to 1 default profile: "default"
+11:41:57.175 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+11:41:57.176 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+11:41:57.177 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.68]
+11:41:57.354 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+11:42:00.457 [main] INFO  c.a.a.s.ArthasConfiguration - [arthasAgent,70] - Arthas agent start success.
+11:42:00.560 [main] INFO  c.a.d.p.DruidDataSource - [close,1948] - {dataSource-0} closing ...
+11:42:00.564 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+11:43:29.795 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+11:43:30.438 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+11:43:30.438 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+11:43:32.572 [main] INFO  c.j.a.ArchivalApplication - [logStartupProfileInfo,645] - No active profile set, falling back to 1 default profile: "default"
+11:43:34.991 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+11:43:34.992 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+11:43:34.992 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.68]
+11:43:35.154 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+11:43:37.505 [main] INFO  c.a.a.s.ArthasConfiguration - [arthasAgent,70] - Arthas agent start success.
+11:43:37.601 [main] INFO  c.a.d.p.DruidDataSource - [close,1948] - {dataSource-0} closing ...
+11:43:37.604 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+11:44:17.652 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+11:44:18.300 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+11:44:18.301 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+11:44:21.502 [main] INFO  c.j.a.ArchivalApplication - [logStartupProfileInfo,645] - No active profile set, falling back to 1 default profile: "default"
+11:44:24.062 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+11:44:24.063 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+11:44:24.064 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.68]
+11:44:24.219 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+11:44:26.588 [main] INFO  c.a.a.s.ArthasConfiguration - [arthasAgent,70] - Arthas agent start success.
+11:44:26.686 [main] INFO  c.a.d.p.DruidDataSource - [close,1948] - {dataSource-0} closing ...
+11:44:26.689 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+11:44:55.247 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+11:44:55.853 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+11:44:55.854 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+11:44:58.174 [main] INFO  c.j.a.ArchivalApplication - [logStartupProfileInfo,645] - No active profile set, falling back to 1 default profile: "default"
+11:45:00.735 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+11:45:00.736 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+11:45:00.736 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.68]
+11:45:00.864 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+11:45:03.210 [main] INFO  c.a.a.s.ArthasConfiguration - [arthasAgent,70] - Arthas agent start success.
+11:45:03.611 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+11:45:03.673 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+11:45:03.673 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+11:45:04.261 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,76] - nacos registry, DEFAULT_GROUP GD_ZXJ 10.97.110.251:8080 register finished
+11:45:04.612 [main] INFO  c.j.a.ArchivalApplication - [logStarted,61] - Started ArchivalApplication in 10.069 seconds (JVM running for 17.334)
+11:45:04.642 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ.properties, group=DEFAULT_GROUP
+11:45:04.643 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ, group=DEFAULT_GROUP
+11:45:04.643 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ.yml, group=DEFAULT_GROUP
+11:47:43.471 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,95] - De-registering from Nacos Server now...
+11:47:43.518 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,115] - De-registration finished.
+11:47:43.537 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,1948] - {dataSource-0} closing ...
+11:47:55.952 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+11:47:56.559 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+11:47:56.560 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+11:47:58.905 [main] INFO  c.j.a.ArchivalApplication - [logStartupProfileInfo,645] - No active profile set, falling back to 1 default profile: "default"
+11:48:01.533 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+11:48:01.534 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+11:48:01.534 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.68]
+11:48:01.670 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+11:48:05.137 [main] INFO  c.a.a.s.ArthasConfiguration - [arthasAgent,70] - Arthas agent start success.
+11:48:05.819 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+11:48:05.873 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+11:48:05.874 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+11:48:06.338 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,76] - nacos registry, DEFAULT_GROUP GD_ZXJ 10.97.110.251:8080 register finished
+11:48:06.810 [main] INFO  c.j.a.ArchivalApplication - [logStarted,61] - Started ArchivalApplication in 11.642 seconds (JVM running for 18.646)
+11:48:06.834 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ.properties, group=DEFAULT_GROUP
+11:48:06.835 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ, group=DEFAULT_GROUP
+11:48:06.836 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ.yml, group=DEFAULT_GROUP
+11:48:55.098 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,95] - De-registering from Nacos Server now...
+11:48:55.563 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,115] - De-registration finished.
+11:48:55.589 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,1948] - {dataSource-0} closing ...
+11:49:09.528 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+11:49:10.235 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+11:49:10.236 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+11:49:12.417 [main] INFO  c.j.a.ArchivalApplication - [logStartupProfileInfo,645] - No active profile set, falling back to 1 default profile: "default"
+11:49:14.807 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+11:49:14.808 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+11:49:14.808 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.68]
+11:49:14.942 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+11:49:17.786 [main] INFO  c.a.a.s.ArthasConfiguration - [arthasAgent,70] - Arthas agent start success.
+11:49:18.206 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+11:49:18.256 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+11:49:18.257 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+11:49:18.641 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,76] - nacos registry, DEFAULT_GROUP GD_ZXJ 10.97.110.251:8080 register finished
+11:49:19.114 [main] INFO  c.j.a.ArchivalApplication - [logStarted,61] - Started ArchivalApplication in 10.266 seconds (JVM running for 17.798)
+11:49:19.142 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ.properties, group=DEFAULT_GROUP
+11:49:19.144 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ, group=DEFAULT_GROUP
+11:49:19.145 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ.yml, group=DEFAULT_GROUP
+11:49:46.474 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+11:50:53.727 [http-nio-8080-exec-10] INFO  c.a.d.p.DruidDataSource - [init,1003] - {dataSource-1} inited
+11:59:03.386 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,95] - De-registering from Nacos Server now...
+11:59:03.419 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,115] - De-registration finished.
+11:59:03.451 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,1948] - {dataSource-1} closing ...
+11:59:03.463 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2020] - {dataSource-1} closed
+11:59:14.134 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+11:59:14.781 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+11:59:14.782 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+11:59:16.998 [main] INFO  c.j.a.ArchivalApplication - [logStartupProfileInfo,645] - No active profile set, falling back to 1 default profile: "default"
+11:59:19.457 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+11:59:19.458 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+11:59:19.458 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.68]
+11:59:19.592 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+11:59:22.258 [main] INFO  c.a.a.s.ArthasConfiguration - [arthasAgent,70] - Arthas agent start success.
+11:59:22.650 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+11:59:22.686 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+11:59:22.687 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+11:59:23.116 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,76] - nacos registry, DEFAULT_GROUP GD_ZXJ 10.97.110.251:8080 register finished
+11:59:23.543 [main] INFO  c.j.a.ArchivalApplication - [logStarted,61] - Started ArchivalApplication in 10.076 seconds (JVM running for 17.111)
+11:59:23.565 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ.properties, group=DEFAULT_GROUP
+11:59:23.566 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ, group=DEFAULT_GROUP
+11:59:23.567 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ.yml, group=DEFAULT_GROUP
+11:59:39.798 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+11:59:50.602 [http-nio-8080-exec-1] INFO  c.a.d.p.DruidDataSource - [init,1003] - {dataSource-1} inited
+13:49:39.750 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,95] - De-registering from Nacos Server now...
+13:49:52.440 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+13:49:53.074 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+13:49:53.074 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+13:49:55.355 [main] INFO  c.j.a.ArchivalApplication - [logStartupProfileInfo,645] - No active profile set, falling back to 1 default profile: "default"
+13:49:58.224 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+13:49:58.225 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+13:49:58.225 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.68]
+13:49:58.362 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+13:50:01.933 [main] INFO  c.a.a.s.ArthasConfiguration - [arthasAgent,70] - Arthas agent start success.
+13:50:02.358 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+13:50:02.396 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+13:50:02.397 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+13:50:02.846 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,76] - nacos registry, DEFAULT_GROUP GD_ZXJ 10.97.110.251:8080 register finished
+13:50:03.332 [main] INFO  c.j.a.ArchivalApplication - [logStarted,61] - Started ArchivalApplication in 11.643 seconds (JVM running for 18.423)
+13:50:03.356 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ.properties, group=DEFAULT_GROUP
+13:50:03.357 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ, group=DEFAULT_GROUP
+13:50:03.357 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ.yml, group=DEFAULT_GROUP
+13:50:36.286 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+13:50:37.243 [http-nio-8080-exec-1] INFO  c.a.d.p.DruidDataSource - [init,1003] - {dataSource-1} inited
+14:00:12.685 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+14:00:13.298 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+14:00:13.298 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+14:00:15.489 [main] INFO  c.j.a.ArchivalApplication - [logStartupProfileInfo,645] - No active profile set, falling back to 1 default profile: "default"
+14:00:18.013 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+14:00:18.013 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+14:00:18.014 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.68]
+14:00:18.142 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+14:00:20.708 [main] INFO  c.a.a.s.ArthasConfiguration - [arthasAgent,70] - Arthas agent start success.
+14:00:21.125 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+14:00:21.174 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+14:00:21.174 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+14:00:21.564 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,76] - nacos registry, DEFAULT_GROUP GD_ZXJ 10.97.110.251:8080 register finished
+14:00:22.022 [main] INFO  c.j.a.ArchivalApplication - [logStarted,61] - Started ArchivalApplication in 10.038 seconds (JVM running for 17.071)
+14:00:22.047 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ.properties, group=DEFAULT_GROUP
+14:00:22.049 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ, group=DEFAULT_GROUP
+14:00:22.050 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ.yml, group=DEFAULT_GROUP
+14:10:34.508 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+14:10:35.784 [http-nio-8080-exec-1] INFO  c.a.d.p.DruidDataSource - [init,1003] - {dataSource-1} inited
+14:15:57.948 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,95] - De-registering from Nacos Server now...
+14:15:57.977 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,115] - De-registration finished.
+14:15:57.995 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,1948] - {dataSource-1} closing ...
+14:15:57.999 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2020] - {dataSource-1} closed
+14:16:10.366 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+14:16:11.171 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+14:16:11.171 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+14:16:13.642 [main] INFO  c.j.a.ArchivalApplication - [logStartupProfileInfo,645] - No active profile set, falling back to 1 default profile: "default"
+14:16:16.367 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+14:16:16.368 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+14:16:16.369 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.68]
+14:16:16.533 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+14:16:19.536 [main] INFO  c.a.a.s.ArthasConfiguration - [arthasAgent,70] - Arthas agent start success.
+14:16:20.012 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+14:16:20.067 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+14:16:20.068 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+14:16:21.093 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,76] - nacos registry, DEFAULT_GROUP GD_ZXJ 10.97.110.251:8080 register finished
+14:16:21.631 [main] INFO  c.j.a.ArchivalApplication - [logStarted,61] - Started ArchivalApplication in 12.12 seconds (JVM running for 21.688)
+14:16:21.656 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ.properties, group=DEFAULT_GROUP
+14:16:21.657 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ, group=DEFAULT_GROUP
+14:16:21.658 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ.yml, group=DEFAULT_GROUP
+14:17:21.477 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+14:17:22.076 [http-nio-8080-exec-1] INFO  c.a.d.p.DruidDataSource - [init,1003] - {dataSource-1} inited
+14:21:39.719 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,95] - De-registering from Nacos Server now...
+14:21:39.748 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,115] - De-registration finished.
+14:21:39.801 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,1948] - {dataSource-1} closing ...
+14:21:39.820 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2020] - {dataSource-1} closed
+14:21:53.712 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+14:21:54.412 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+14:21:54.412 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+14:21:56.803 [main] INFO  c.j.a.ArchivalApplication - [logStartupProfileInfo,645] - No active profile set, falling back to 1 default profile: "default"
+14:21:59.248 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+14:21:59.249 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+14:21:59.250 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.68]
+14:21:59.398 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+14:22:03.241 [main] INFO  c.a.a.s.ArthasConfiguration - [arthasAgent,70] - Arthas agent start success.
+14:22:04.235 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+14:22:04.320 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+14:22:04.320 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+14:22:04.787 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,76] - nacos registry, DEFAULT_GROUP GD_ZXJ 10.97.110.251:8080 register finished
+14:22:05.294 [main] INFO  c.j.a.ArchivalApplication - [logStarted,61] - Started ArchivalApplication in 12.356 seconds (JVM running for 20.024)
+14:22:05.317 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ.properties, group=DEFAULT_GROUP
+14:22:05.318 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ, group=DEFAULT_GROUP
+14:22:05.319 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ.yml, group=DEFAULT_GROUP
+14:22:19.927 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+14:22:20.479 [http-nio-8080-exec-1] INFO  c.a.d.p.DruidDataSource - [init,1003] - {dataSource-1} inited
+14:22:40.391 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,95] - De-registering from Nacos Server now...
+14:22:40.405 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,115] - De-registration finished.
+14:22:40.426 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,1948] - {dataSource-1} closing ...
+14:22:40.430 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2020] - {dataSource-1} closed
+14:22:49.643 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+14:22:50.290 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+14:22:50.291 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+14:22:52.528 [main] INFO  c.j.a.ArchivalApplication - [logStartupProfileInfo,645] - No active profile set, falling back to 1 default profile: "default"
+14:22:54.976 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+14:22:54.977 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+14:22:54.977 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.68]
+14:22:55.102 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+14:22:58.044 [main] INFO  c.a.a.s.ArthasConfiguration - [arthasAgent,70] - Arthas agent start success.
+14:22:58.427 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+14:22:58.465 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+14:22:58.465 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+14:22:58.806 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,76] - nacos registry, DEFAULT_GROUP GD_ZXJ 10.97.110.251:8080 register finished
+14:22:59.336 [main] INFO  c.j.a.ArchivalApplication - [logStarted,61] - Started ArchivalApplication in 10.385 seconds (JVM running for 17.032)
+14:22:59.356 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ.properties, group=DEFAULT_GROUP
+14:22:59.357 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ, group=DEFAULT_GROUP
+14:22:59.357 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ.yml, group=DEFAULT_GROUP
+14:23:07.271 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+14:23:08.310 [http-nio-8080-exec-1] INFO  c.a.d.p.DruidDataSource - [init,1003] - {dataSource-1} inited
+14:27:37.177 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,95] - De-registering from Nacos Server now...
+14:27:37.197 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,115] - De-registration finished.
+14:27:37.274 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,1948] - {dataSource-1} closing ...
+14:27:37.280 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2020] - {dataSource-1} closed
+14:27:48.578 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+14:27:49.267 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+14:27:49.268 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+14:27:51.508 [main] INFO  c.j.a.ArchivalApplication - [logStartupProfileInfo,645] - No active profile set, falling back to 1 default profile: "default"
+14:27:54.423 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+14:27:54.424 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+14:27:54.424 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.68]
+14:27:54.551 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+14:27:57.154 [main] INFO  c.a.a.s.ArthasConfiguration - [arthasAgent,70] - Arthas agent start success.
+14:27:57.621 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+14:27:57.658 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+14:27:57.659 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+14:27:58.055 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,76] - nacos registry, DEFAULT_GROUP GD_ZXJ 10.97.110.251:8080 register finished
+14:27:58.915 [main] INFO  c.j.a.ArchivalApplication - [logStarted,61] - Started ArchivalApplication in 11.034 seconds (JVM running for 19.859)
+14:27:58.997 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ.properties, group=DEFAULT_GROUP
+14:27:59.001 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ, group=DEFAULT_GROUP
+14:27:59.003 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ.yml, group=DEFAULT_GROUP
+17:52:36.793 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+17:52:37.652 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+17:52:37.652 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+17:52:40.504 [main] INFO  c.j.a.ArchivalApplication - [logStartupProfileInfo,645] - No active profile set, falling back to 1 default profile: "default"
+17:52:43.303 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+17:52:43.304 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+17:52:43.305 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.68]
+17:52:43.486 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+17:52:46.769 [main] INFO  c.a.a.s.ArthasConfiguration - [arthasAgent,70] - Arthas agent start success.
+17:52:47.317 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+17:52:47.369 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+17:52:47.369 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+17:52:47.964 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,76] - nacos registry, DEFAULT_GROUP GD_ZXJ 10.97.110.251:8080 register finished
+17:52:48.777 [main] INFO  c.j.a.ArchivalApplication - [logStarted,61] - Started ArchivalApplication in 12.937 seconds (JVM running for 21.036)
+17:52:48.812 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ.properties, group=DEFAULT_GROUP
+17:52:48.813 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ, group=DEFAULT_GROUP
+17:52:48.813 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ.yml, group=DEFAULT_GROUP
+17:54:13.788 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+17:54:14.519 [http-nio-8080-exec-1] INFO  c.a.d.p.DruidDataSource - [init,1003] - {dataSource-1} inited
+18:13:17.126 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+18:13:17.904 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+18:13:17.905 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+18:13:20.626 [main] INFO  c.j.a.ArchivalApplication - [logStartupProfileInfo,645] - No active profile set, falling back to 1 default profile: "default"
+18:13:23.538 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+18:13:23.539 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+18:13:23.539 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.68]
+18:13:23.719 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+18:13:26.710 [main] INFO  c.a.a.s.ArthasConfiguration - [arthasAgent,70] - Arthas agent start success.
+18:13:27.281 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+18:13:27.334 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+18:13:27.335 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+18:13:27.767 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,76] - nacos registry, DEFAULT_GROUP GD_ZXJ 10.97.110.251:8080 register finished
+18:13:28.526 [main] INFO  c.j.a.ArchivalApplication - [logStarted,61] - Started ArchivalApplication in 12.189 seconds (JVM running for 19.825)
+18:13:28.558 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ.properties, group=DEFAULT_GROUP
+18:13:28.558 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ, group=DEFAULT_GROUP
+18:13:28.559 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ.yml, group=DEFAULT_GROUP
+19:07:31.387 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+19:07:45.322 [http-nio-8080-exec-7] INFO  c.a.d.p.DruidDataSource - [init,1003] - {dataSource-1} inited
+19:26:19.037 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+19:26:19.832 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+19:26:19.833 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+19:26:22.592 [main] INFO  c.j.a.ArchivalApplication - [logStartupProfileInfo,645] - No active profile set, falling back to 1 default profile: "default"
+19:26:25.922 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+19:26:25.923 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+19:26:25.923 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.68]
+19:26:26.089 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+19:26:29.451 [main] INFO  c.a.a.s.ArthasConfiguration - [arthasAgent,70] - Arthas agent start success.
+19:26:30.021 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+19:26:30.090 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+19:26:30.091 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+19:26:30.935 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,76] - nacos registry, DEFAULT_GROUP GD_ZXJ 10.97.110.251:8080 register finished
+19:26:35.768 [main] INFO  c.j.a.ArchivalApplication - [logStarted,61] - Started ArchivalApplication in 17.481 seconds (JVM running for 24.719)
+19:26:35.825 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ.properties, group=DEFAULT_GROUP
+19:26:35.827 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ, group=DEFAULT_GROUP
+19:26:35.828 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ.yml, group=DEFAULT_GROUP
+19:26:42.779 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.a.d.p.DruidDataSource - [init,1003] - {dataSource-1} inited
+19:30:21.066 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,95] - De-registering from Nacos Server now...
+19:30:21.084 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,115] - De-registration finished.
+19:30:21.148 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,1948] - {dataSource-1} closing ...
+19:30:21.152 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2020] - {dataSource-1} closed
+19:30:36.407 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+19:30:36.987 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+19:30:36.988 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+19:30:39.089 [main] INFO  c.j.a.ArchivalApplication - [logStartupProfileInfo,645] - No active profile set, falling back to 1 default profile: "default"
+19:30:41.577 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+19:30:41.578 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+19:30:41.578 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.68]
+19:30:41.733 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+19:30:44.421 [main] INFO  c.a.a.s.ArthasConfiguration - [arthasAgent,70] - Arthas agent start success.
+19:30:44.927 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+19:30:44.967 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+19:30:44.967 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+19:30:45.332 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,76] - nacos registry, DEFAULT_GROUP GD_ZXJ 10.97.110.251:8080 register finished
+19:30:50.165 [main] INFO  c.j.a.ArchivalApplication - [logStarted,61] - Started ArchivalApplication in 14.641 seconds (JVM running for 21.702)
+19:30:50.245 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ.properties, group=DEFAULT_GROUP
+19:30:50.246 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ, group=DEFAULT_GROUP
+19:30:50.247 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ.yml, group=DEFAULT_GROUP
+19:30:57.373 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.a.d.p.DruidDataSource - [init,1003] - {dataSource-1} inited
+19:32:05.948 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,95] - De-registering from Nacos Server now...
+19:32:05.978 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,115] - De-registration finished.
+19:32:06.018 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,1948] - {dataSource-1} closing ...
+19:32:06.026 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2020] - {dataSource-1} closed
+19:32:16.138 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+19:32:16.844 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+19:32:16.844 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+19:32:19.169 [main] INFO  c.j.a.ArchivalApplication - [logStartupProfileInfo,645] - No active profile set, falling back to 1 default profile: "default"
+19:32:21.723 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+19:32:21.723 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+19:32:21.724 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.68]
+19:32:21.869 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+19:32:24.516 [main] INFO  c.a.a.s.ArthasConfiguration - [arthasAgent,70] - Arthas agent start success.
+19:32:25.117 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+19:32:25.170 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+19:32:25.170 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+19:32:25.607 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,76] - nacos registry, DEFAULT_GROUP GD_ZXJ 10.97.110.251:8080 register finished
+19:32:36.188 [main] INFO  c.j.a.ArchivalApplication - [logStarted,61] - Started ArchivalApplication in 20.794 seconds (JVM running for 28.097)
+19:32:36.226 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ.properties, group=DEFAULT_GROUP
+19:32:36.227 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ, group=DEFAULT_GROUP
+19:32:36.228 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=GD_ZXJ.yml, group=DEFAULT_GROUP
+19:32:36.660 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.a.d.p.DruidDataSource - [init,1003] - {dataSource-1} inited
+19:33:27.537 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:33:34.743 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:33:35.388 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:33:35.714 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:33:36.003 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:33:36.322 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:33:36.651 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:33:37.003 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:33:37.407 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:33:37.986 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:33:38.874 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:33:39.413 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:33:39.898 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:33:40.416 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:33:40.967 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:33:41.505 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:33:42.325 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:33:42.830 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:33:43.345 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:33:43.923 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:33:44.621 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:33:45.475 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:33:46.162 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:33:46.823 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:33:47.525 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:33:48.314 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:33:49.348 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:33:50.126 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:33:51.024 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:33:52.054 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:33:52.979 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:33:53.820 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:33:54.679 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:33:55.636 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:33:56.805 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:33:57.861 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:33:58.866 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:33:59.875 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:34:00.890 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:34:03.640 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:34:04.953 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:34:06.325 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:34:07.338 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:34:08.444 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:34:09.493 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:34:10.522 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:34:11.578 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:34:13.187 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:34:14.380 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:34:27.914 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:34:34.818 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:34:36.265 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:34:37.769 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:34:39.112 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:34:40.365 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:34:41.542 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:34:42.841 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:34:44.336 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:34:45.776 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:34:47.154 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:34:48.456 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:34:49.800 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:34:51.640 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:34:53.160 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:34:54.877 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:34:56.403 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:34:57.763 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:34:59.183 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:35:01.004 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:35:02.429 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:35:03.945 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:35:05.827 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:35:07.743 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:35:09.937 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:35:12.163 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:35:13.955 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:35:16.037 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:35:18.011 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:35:19.939 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:35:21.748 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:35:23.846 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:35:25.674 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:35:27.339 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:35:29.000 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:35:31.255 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:35:33.477 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:35:35.583 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:35:37.452 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:35:40.119 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:35:42.264 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:35:44.165 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:35:46.947 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:35:49.603 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:35:59.885 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:36:05.426 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:36:09.107 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:36:11.556 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:36:13.863 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:36:16.595 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:36:18.640 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:36:20.973 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:36:23.487 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:36:25.681 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:36:27.947 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:36:29.899 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:36:32.625 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:36:34.889 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:36:37.076 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:36:46.503 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:36:57.240 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.j.a.p.w.MysqlWriter - [writeData,27] - tableName
+19:36:57.906 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,95] - De-registering from Nacos Server now...
+19:36:57.923 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,115] - De-registration finished.
+19:36:57.952 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,1948] - {dataSource-1} closing ...
+19:36:57.957 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2020] - {dataSource-1} closed

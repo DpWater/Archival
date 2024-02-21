@@ -13,6 +13,6 @@ public interface GDTargetMapper {
 
     void insertDataByTableName(@Param("tableName")String tableName, @Param("list") List<Map<String, String>> datause);
 
-    void insertDataByTableNameByString(@Param("tableName")String tableName, @Param("columnClaus") String columnClaus,@Param("valuesClause") String valuesClause);
+    void insertDataByTableNameByString(@Param("tableName")String tableName, @Param("columnClaus") String columnClaus,@Param("valuesClause") String valuesClause,@Param("list") List<Map<String, String>> datause);
 
 }

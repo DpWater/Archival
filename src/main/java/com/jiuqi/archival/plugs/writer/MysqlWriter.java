@@ -2,7 +2,6 @@ package com.jiuqi.archival.plugs.writer;
 
 import com.jiuqi.archival.interfaces.DataWriter;
 import com.jiuqi.archival.mapper.gdtarget.GDTargetMapper;
-import com.jiuqi.archival.mapper.mysqlsource.GDMapper;
 import com.jiuqi.archival.utils.SpringContextUtil;
 import com.jiuqi.archival.vo.TableDesc;
 import org.apache.logging.log4j.LogManager;
@@ -37,13 +36,13 @@ public class MysqlWriter implements DataWriter<Map<String, String>> {
     @Override
     public void writeData(Map map, List<Map<String, String>> data, TableDesc desc) {
 //        通过mybatis迭代，速度较慢
-//        aq1(map, data);
+//        writeFunction(map, data);
 //        自己拼接，速度提两倍
-        aq2(map, data);
+        writeFunctionNew(map, data);
         logger.info("完成");
     }
 
-    private void aq2(Map map, List<Map<String, String>> data) {
+    private void writeFunctionNew(Map map, List<Map<String, String>> data) {
         String tableName = map.get("tableName").toString();
         StringBuilder valuesBuilder = new StringBuilder();
         StringBuilder columnBuilder = new StringBuilder("(");
@@ -67,12 +66,11 @@ public class MysqlWriter implements DataWriter<Map<String, String>> {
             valuesBuilder.append(valueJoiner.toString());
         }
         columnBuilder.append(columnJoiner).append(")");
-
         String valuesClause = valuesBuilder.toString();
-        gdTargetMapper.insertDataByTableNameByString(tableName, columnBuilder.toString(), valuesClause);
+        gdTargetMapper.insertDataByTableNameByString(tableName, columnBuilder.toString(), valuesClause,data);
     }
 
-    private void aq1(Map map, List<Map<String, String>> data) {
+    private void writeFunction(Map map, List<Map<String, String>> data) {
         String tableName = map.get("tableName").toString();
         gdTargetMapper.insertDataByTableName(tableName, data);
         logger.info("tableName");

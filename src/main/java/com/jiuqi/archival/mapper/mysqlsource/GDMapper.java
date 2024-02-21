@@ -1,7 +1,6 @@
 package com.jiuqi.archival.mapper.mysqlsource;
 
 import com.jiuqi.archival.vo.GDColumn;
-import com.jiuqi.archival.vo.TableDesc;
 import org.apache.ibatis.annotations.Param;
 
 import java.util.List;

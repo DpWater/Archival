@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.jiuqi.archival.mapper.gdtarget.GDTargetMapper">
+    <insert id="insertDataByTableName">
+        INSERT INTO ${tableName}
+        <trim prefix="(" suffix=")" suffixOverrides=",">
+            <!-- Assume all maps have the same keyset. Take the column names from the first map -->
+            <foreach collection="list[0].keySet()" item="column" separator=",">
+                ${column}
+            </foreach>
+        </trim>
+        VALUES
+        <foreach collection="list" item="rowMap" separator=",">
+            <trim prefix="(" suffix=")" suffixOverrides=",">
+                <foreach collection="rowMap" index="key" item="value" separator=",">
+                    #{value}
+                </foreach>
+            </trim>
+        </foreach>
+<!--        ON DUPLICATE KEY UPDATE-->
+<!--        <trim prefix="" suffixOverrides=",">-->
+<!--            <foreach collection="list[0].keySet()" item="column" separator=",">-->
+<!--                &lt;!&ndash; 防止自增主键被更新，可能得添加一个条件判断 &ndash;&gt;-->
+<!--                ${column} = VALUES(${column})-->
+<!--            </foreach>-->
+<!--        </trim>-->
+    </insert>
+
+    <insert id="insertDataByTableNameByString">
+        INSERT INTO ${tableName}
+        ${columnClaus}
+        VALUES
+        ${valuesClause}
+    </insert>
+
+
+    <update id="createTable">
+        CREATE TABLE ${tableName}
+        (
+        <foreach collection="tableDesc.desc" item="column" separator=",">
+            `${column.field}` ${column.type}
+            <if test="column.Null != null and column.Null == 'NO'">
+                not null
+            </if>
+            <if test="column.Default != null and column.Default != ''">
+                DEFAULT ${column.Default}
+            </if>
+        </foreach>
+        <foreach collection="tableDesc.desc" item="column" separator=",">
+            <if test="column.key != null and column.Null == 'PRI'">
+                PRIMARY KEY (${column.field})
+            </if>
+        </foreach>
+        )
+    </update>
+</mapper>
